@@ -2,6 +2,12 @@
 
 edit & preview your gitpitch slides in your local machine.
 
+## requirement & restriction
+
+* using docker.
+* commands are only tested for macOS. let's make pull request for your env!
+
+
 ## installation
 
 sh build.sh
