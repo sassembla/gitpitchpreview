@@ -1,0 +1,1 @@
+docker build -f gitpitchpreview.dockerfile -t gitpitchpreview .
